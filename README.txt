@@ -1,5 +1,5 @@
 # ESX-HealthCheck
-ESX HealthCheck Script is a script that collects data about a VMWare ESX 3 or 4 host.
+ESX HealthCheck Script is a shell script that collects data about a VMWare ESX 3 or 4 host.
 
 This script has been staged at SourceForge (https://sourceforge.net/projects/esxhealthscript/files/esxhealthscript/)
 for over 10 years now.  Originally created by Anders Mikkelsen, I started updating it for my
