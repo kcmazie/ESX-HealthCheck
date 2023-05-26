@@ -6,7 +6,7 @@ for over 10 years now.  Originally created by Anders Mikkelsen, I started updati
 own environment and sent the updates back to the project.  I'm placing a copy here for my 
 own reference.  
 
-This version (49) was the last one released back on 01-08-2010.  I "may start updating it
+This version (49) was the last one released back on 01-08-2010.  I "may" start updating it
 "if" I have time.  I've moved away from ESX admin as a primary function so this is not as important
 in my work now.
 
